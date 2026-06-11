@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--#include file="include/meta.html"-->
+    <title>Global Tunnels Limited Company Homepage</title>
+    <!--#include file="include/link.html"-->
+  </head>
+  <body>
+    <!-- Header Include -->
+    <!--#include file="include/header.html" -->
+
+    <section id="privacy-policy">
+      <div class="gt-shadow-nav page-header--section text-center">
+        <div class="page--title pd--130-0" data-bg-img=images/banner/gt_privacy.jpg>
+            <div class="container">
+                <h1 class="h1">Privacy Notice</h1>
+            </div>
+        </div>
+      </div>
+      <div class="container">
+        <h3>Privacy Notice</h3>
+        <p><strong>Effective Date: January 29, 2024</strong></p>
+
+        <h4>1. WHAT INFORMATION DO WE COLLECT?</h4>
+        <p>
+          We collect personal information that you provide to us when you utilize our services or express interest in obtaining information about us or our products. This includes contact details,
+          payment information, and other necessary details.
+        </p>
+
+        <h4>2. HOW DO WE PROCESS YOUR INFORMATION?</h4>
+        <p>Your information is processed to deliver services, process payments, and for compliance with legal obligations. We use stringent security measures in our data processing.</p>
+
+        <h4>3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?</h4>
+        <p>We process your information based on legitimate business interests, your consent, to enter into or fulfill contracts with you, and for compliance with our legal obligations.</p>
+
+        <h4>4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?</h4>
+        <p>We may share your data with service providers, in compliance with legal obligations, and with your explicit consent.</p>
+
+        <h4>5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?</h4>
+        <p>We may use cookies and tracking technologies to maintain and improve our website and services.</p>
+
+        <h4>6. HOW DO WE HANDLE YOUR SOCIAL LOGINS?</h4>
+        <p>When you log in using social media accounts, we may receive certain profile information about you from the social network.</p>
+
+        <h4>7. HOW LONG DO WE KEEP YOUR INFORMATION?</h4>
+        <p>We retain your personal information for as long as necessary to fulfill the purposes described in this notice.</p>
+
+        <h4>8. HOW DO WE KEEP YOUR INFORMATION SAFE?</h4>
+        <p>We implement security measures designed to protect your data, including encryption, firewalls, and secure server facilities.</p>
+
+        <h4>9. DO WE COLLECT INFORMATION FROM MINORS?</h4>
+        <p>We do not knowingly collect information from individuals under the age of 18 without parental consent.</p>
+
+        <h4>10. WHAT ARE YOUR PRIVACY RIGHTS?</h4>
+        <p>You have the right to access, correct, or request deletion of your personal information, subject to certain limitations.</p>
+
+        <h4>11. CONTROLS FOR DO-NOT-TRACK FEATURES</h4>
+        <p>We do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online.</p>
+
+        <h4>12. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?</h4>
+        <p>California residents are granted specific rights regarding access to their personal information under state law.</p>
+
+        <h4>13. DO WE MAKE UPDATES TO THIS NOTICE?</h4>
+        <p>We may update our privacy notice from time to time to reflect changes to our practices or for other operational, legal, or regulatory reasons.</p>
+
+        <h4>14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</h4>
+        <p>For questions or concerns about our privacy practices, please contact us at:</p>
+        <address>
+          Global Tunnels Limited Company<br />
+          1069 W Broad St #210<br />
+          Falls Church, VA<br />
+          Phone: 202.999.5791<br />
+          Email: <a href="mailto:contact@globaltunnels.com">contact@globaltunnels.com</a>
+        </address>
+
+        <h4>15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?</h4>
+        <p>
+          Depending on the law of your country of residence, you may have the right to access the personal information we collect from you, change that information, or delete it. To request to review,
+          update, or delete your personal information, please submit a request to the contact information provided above.
+        </p>
+      </div>
+    </section>
+    <!-- Footer Include -->
+    <!--#include file="include/footer.html" -->
+    <!--#include file="include/postscripts.html" -->
+  </body>
+</html>

@@ -1,0 +1,47 @@
+/****************
+CUSTOM CSS HERE
+*****************/
+
+.navbar-custom .nav-link {
+    color: #7d7c7c; /* Custom text color */
+    text-decoration: none; /* Removes underline from links */
+    padding: 1rem 2rem; /* Adjust padding as needed */
+    font-size: 1.5rem;
+    border-radius: 30rem;
+}
+
+.hero-content h1 strong{
+   color: #f69323;
+   font-weight: bold;
+   text-shadow: 4px 8px 8px rgb(122, 58, 28);
+}
+
+.carousel-item {
+   height: 500px;
+   background-size: cover;
+   background-position: center; /* Center the image */
+   background-repeat: no-repeat; /* Do not repeat the image */
+   
+}
+
+.carousel-item img {
+    width: 100%; /* Stretch image to cover the full width */
+    height: 100%; /* Stretch image to cover the full height */
+    object-fit: cover; /* This makes sure that images are not stretched out of proportion */
+}
+
+.nav-link {
+   color: #ffffff;
+   font-weight: bold;
+}
+
+.banner-title {
+   color: #f69323;
+   font-weight: bold;
+   font-size: 3rem;
+   text-shadow: 10px 10px 10px black;
+}
+
+.bi {
+    font-size: 24px; /* Adjust the size as needed */
+}

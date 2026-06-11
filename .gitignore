@@ -1,0 +1,4 @@
+.DS_Store
+*.log
+# debug file — never publish/deploy
+info.php

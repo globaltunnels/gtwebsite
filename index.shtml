@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--#include file="include/meta.html"-->
+    <title>Global Tunnels Limited Company Homepage</title>
+    <!--#include file="include/link.html"-->
+  </head>
+  <body>
+    <!-- Header Include -->
+    <!--#include file="include/header.html" -->
+
+    <!-- Hero Section -->
+    <!--#include file="include/hero.html" -->
+
+    <!-- Home Section -->
+    <section id="home content">
+      <div id="appointment" class="appointment--section pd--100-0-40">
+        <div class="container">
+          <class= class="row">
+            <div class="col-md-8">
+              <div class="appointment--items">
+              <div class="row AdjustRow">
+                <div class="col-xs-6 col-xxs-12">
+                  <div class="appointment--item"> <span class="step font--secondary">01</span>
+                    <div class="icon text--primary"> <i class="bi bi-code-slash"></i> </div>
+                    <div class="title">
+                      <h4 class="h4">Custom Development & Modernization</h4>
+                    </div>
+                    <div class="content">
+                      <p>Empower your organization with our custom development expertise. We create unique applications, software, websites, and AI-driven tools that refine operational efficiency, improve insights, and expand capabilities. Our solutions ensure compliance, security, and scalability. By integrating cutting-edge technologies, such as AI for coding and testing, we keep your agency ahead of industry trends, ensuring efficiency and innovation. </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-6 col-xxs-12">
+                  <div class="appointment--item"> <span class="step font--secondary">02</span>
+                    <div class="icon text--primary"> <i class="bi bi-database-fill-gear"></i> </div>
+                    <div class="title">
+                      <h4 class="h4">Data Management </h4>
+                    </div>
+                    <div class="content">
+                      <p>Global Tunnels offers end-to-end data management services, from data collection and creation to data processing, validation, governance, storage, security, transformation, and access. We develop AI-based solutions for multi-source discovery, access, and analysis, as well as, data quality assurance, empowering decision-making while maintaining compliance and security.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-6 col-xxs-12">
+                  <div class="appointment--item"> <span class="step font--secondary">03</span>
+                    <div class="icon text--primary">
+                      <i class="bi bi-chevron-double-right"></i>
+                    </div>
+                    <div class="title">
+                      <h4 class="h4">Business Process Solutions</h4>
+                    </div>
+                    <div class="content">
+                      <p>Our business process solutions optimize federal operations by automating tasks, streamlining workflows, and ensuring compliance thereby enhancing efficiency, reducing costs, and improving transparency while delivering top-tier user services. We prioritize security, interoperability, and data-driven decision-making. </p>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="col-xs-6 col-xxs-12">
+                  <div class="appointment--item"> <span class="step font--secondary">04</span>
+                    <div class="icon text--primary"> <i class="bi bi-cloud-check-fill"></i> </div>
+                    <div class="title">
+                      <h4 class="h4">Secure Cloud Hosting & CyberSecurity</h4>
+                    </div>
+                    <div class="content">
+                      <p>Embrace the power of the cloud with Global Tunnels secure hosting solutions. We optimize performance while maintaining robust security measures and compliance with standards like FedRAMP and NIST 800-53. Our certified cloud solutions fortify systems against threats. AI-powered anomaly detection can identify and help resolve system issues, minimizing downtime and ensuring smooth operations during migration.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              </div>
+            </div>
+            <div class="appointment--form col-md-4" >
+              <form action="contactus" method="post" class="needs-validation" novalidate onsubmit="return confirmSubmission()"> 
+                <h4 class="h4 text--primary">Contact us today for inquires! </h4>
+                <div class="status"></div>
+                <div class="row">
+                  <div class="col-sm-12">
+                    <input type="text" name="name" placeholder="Your Name" class="form-control" required>
+                    <div class="invalid-feedback">Please enter your name.</div>
+                  </div>
+                  <div class="col-sm-12">
+                      <input type="tel" name="tel" placeholder="Tel 202.222.2222" pattern="[0-9]{3}\.[0-9]{3}\.[0-9]{4}"class="form-control">
+                  </div>
+                  <div class="col-sm-12">
+                      <input type="email" name="email" placeholder="E-mail Address" required pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$" class="form-control" required>
+                      <div class="invalid-feedback">Please enter a valid email address.</div>
+                  </div>
+                  <div class="col-sm-12">
+                      <input type="textarea" name="subject" placeholder="Subject" class="form-control" required>
+                      <div class="invalid-feedback">Please enter a subject.</div>
+                  </div>
+                  <div class="col-sm-12">
+                      <textarea name="message" rows="20"  placeholder="Details" class="form-control" required></textarea>
+                      <div class="invalid-feedback">Please enter your message.</div>
+                  </div>
+                  <div class="col-sm-12">
+                      <button type="submit" class="btn btn-default">Send Message</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer Include -->
+    <!--#include file="include/footer.html" -->
+    <!--#include file="include/postscripts.html" -->
+  </body>
+</html>

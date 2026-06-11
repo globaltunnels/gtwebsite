@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--#include file="include/meta.html"-->
+    <title>Global Tunnels Limited Company Homepage</title>
+    <!--#include file="include/link.html"-->
+  </head>
+  <body>
+    <!-- Header Include -->
+    <!--#include file="include/header.html" -->
+
+    <!-- Services Section -->
+    <section id="services content">
+      <div class="pd--130-0" style="background-image: url('images/banner/gt_service.jpg'); background-size: cover; background-position: center;">
+        <div class="container text-center">
+            <h1 class="banner-title">Services</h1>
+        </div>
+      </div>
+      
+      <div class="about--section pd--100-0-40">
+        <div class="container">
+          <div class="row">
+            <div class="about--content col-sm-12 pb--20">
+              <h2 class="h2">Our <span>Services</span></h2>
+              <p>
+                At Global Tunnels, we provide a range of innovative IT solutions by deeply understanding your goals, culture, and business needs. With over two decades of experience in government IT services, we’ve honed our approach to balancing legacy systems and future-readiness, including practical AI solutions. Whether tailored solutions, data optimization, streamlined workflows, secure cloud hosting, or AI integration, we ensure top-tier security and compliance standards. 
+              </p>
+            </div>
+            <div class="col-sm-6 pb--60 about--gallery"></div>
+          </div>
+          <div class="row">
+            <div class="about--content col-sm-6 pb--60">
+              <h2 class="h2"><span>Custom</span> Development and Modernization</span></h2>
+              <p>
+                At Global Tunnels, we approach IT projects with a client-centered mindset that combines agility, collaboration, innovation, and a dedication to quality. 
+              </p>
+              <ul>
+                <li><i class="fa fa-angle-double-right fm"></i>Adaptive Agility: We follow an Agile approach that quickly adjusts to your evolving needs as your project progresses.</li>
+                <li><i class="fa fa-angle-double-right fm"></i>Close Collaboration: We work closely with you to ensure that every solution aligns with your vision and requirements.</li>
+                <li><i class="fa fa-angle-double-right fm"></i>Staying Aheadof AI: We’re committed to staying ahead of industry trends by using AI, and other emerging technologies, where appropriate to drive innovation and efficiency in your projects.</li>
+                <li><i class="fa fa-angle-double-right fm"></i>Industry-Grade Standards: We maintain the highest industry standards through our adherence to our CMMI Level 3 certification, ensuring the quality of every project.</li>
+              </ul>
+            </div>
+            <div class="about--content col-sm-6 pb--60">
+              <h2 class="h2"><span>Data</span> Management</h2>
+              <p>
+                Global Tunnels provides end-to-end data management services, covering data collection, processing, validation, governance storage, security, transformation, and access, with a strong focus on AI tools like Gov-PATH.
+              </p>
+
+              <ul>
+                <li><i class="fa fa-angle-double-right fm"></i>Customized Solutions: We tailor our data management to meet your agency’s unique needs, enabling better decision-making.  </li>
+                <li><i class="fa fa-angle-double-right fm"></i>Improved Data Quality: Gov-PATH prioritizes data access across multiple sources, and AI-assured data quality, which leads to enhanced data analytics and insights.
+</li>
+                <li><i class="fa fa-angle-double-right fm"></i>Compliance Assurance: We ensure your data management stays in line with industry standards and compliance requirements.</li>
+                <li><i class="fa fa-angle-double-right fm"></i>Efficiency & Security: We implement rigorous security measures to safeguard your data, ensuring its integrity and confidentiality while streamlining data management for enhanced operational efficiency. </li>
+              </ul>
+            </div>
+          </div>
+          <div class="row">
+            <div class="about--content col-sm-6 pb--60">
+              <h2 class="h2">Business <span>Process</span> Solutions</h2>
+              <p>
+                At Global Tunnels, we leverage our deep expertise in government IT service to craft business process solutions that align with your agency’s unique needs. Our approach centers on AI-automated tasks: streamlining workflows, ensuring regulatory compliance, and harnessing data-driven insights.  
+              </p>
+
+              <ul>
+                <li><i class="fa fa-angle-double-right fm"></i>Enhanced Efficiency: Our AI-driven solutions automate tasks and streamline workflows, driving significant efficiency improvements within your organization.</li>
+                <li><i class="fa fa-angle-double-right fm"></i>Improved Transparency: We improve transparency, ensuring effective communication and top-tier citizen services.  </li>
+                <li><i class="fa fa-angle-double-right fm"></i>Security & Compliance: Security and compliance are paramount. Our solutions safeguard sensitive information while adhering to industry standards. </li>
+                <li><i class="fa fa-angle-double-right fm"></i>Cost Reduction: We streamline processes to reduce costs, enhancing the efficiency and cost-effectiveness of your agency’s operations through AI tools such as Gov-PATH. </li>
+              </ul>
+            </div>
+            <div class="about--content col-sm-6 pb--60">
+              <h2 class="h2"><span>Secure</span> Cloud Hosting</h2>
+              <p>
+                We specialize in providing web and application hosting platforms, offering the flexibility of AWS or on-site hosting at the client’s facility. Our approach integrates a powerful combination of security, compliance, application performance optimization, and cost-effectiveness, ensuring a seamless hosting experience for the best value.  
+              </p>
+               <ul>
+                <li><i class="fa fa-angle-double-right fm"></i>Performance Optimization: We ensure your systems operate at their best, delivering optimal performance.</li>
+                <li><i class="fa fa-angle-double-right fm"></i>Robust Security: Your data and systems are safeguarded with rigorous security measures, fortifying them against potential threats. 
+                </li>
+                <li><i class="fa fa-angle-double-right fm"></i>Compliance Assurance: As a certified Cloud Service Provider (CSP), we provide peace of mind by offering solutions that adhere to FedRAMP compliance standards, ensuring data security and regulatory compliance. </li>
+                <li><i class="fa fa-angle-double-right fm"></i>Strategic & Tactical Planning: We utilize AI-powered anomaly detection to identify and resolve system issues, minimizing downtime and ensuring smooth operations during migration.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer Include -->
+    <!--#include file="include/footer.html" -->
+    <!--#include file="include/postscripts.html" -->
+  </body>
+</html>
