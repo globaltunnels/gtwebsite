@@ -2,7 +2,12 @@
 <html lang="en">
   <head>
     <!--#include file="include/meta.html"-->
-    <title>Global Tunnels | Secure AI Integration and Governance</title>
+    <title>Global Tunnels | Enterprise AI Integration & Secure IT Governance</title>
+    <meta name="description" content="Global Tunnels provides secure enterprise AI integration, NIST-aligned governance, and legacy modernization services via PathSync for government and regulated industries.">
+    <meta name="keywords" content="Enterprise AI, AI Governance, NIST AI RMF, PathSync, Secure Cloud Hosting, Legacy Modernization, IT Services, Global Tunnels">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Global Tunnels | Enterprise AI Integration">
+    <meta property="og:image" content="images/banner/ai_hero_bg.png">
     <!--#include file="include/link.html"-->
   </head>
   <body>

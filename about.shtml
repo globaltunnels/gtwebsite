@@ -2,7 +2,12 @@
 <html lang="en">
   <head>
     <!--#include file="include/meta.html"-->
-    <title>About | Global Tunnels</title>
+    <title>About Us | Minority-Owned Federal IT Innovators | Global Tunnels</title>
+    <meta name="description" content="Global Tunnels is a Minority-Owned Small Business driving human-centric innovation and IT modernization for federal agencies via GSA MAS contracting paths.">
+    <meta name="keywords" content="Minority-Owned Small Business, GSA MAS, Federal IT Contractor, Global Tunnels Company Profile">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="About Us | Global Tunnels">
+    <meta property="og:image" content="images/banner/about_hero.png">
     <!--#include file="include/link.html"-->
   </head>
   <body>

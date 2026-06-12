@@ -2,7 +2,12 @@
 <html lang="en">
   <head>
     <!--#include file="include/meta.html"-->
-    <title>Services | Global Tunnels</title>
+    <title>Core Services | AI Governance & Cloud Migration | Global Tunnels</title>
+    <meta name="description" content="Explore our core capabilities including AI risk management frameworks, automated workflows via PathSync, data governance, and scalable cloud solutions.">
+    <meta name="keywords" content="AI Services, Data Governance, Cloud Migration, Automated Workflows, Risk Management, Cybersecurity, DevSecOps">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Core Services | Global Tunnels">
+    <meta property="og:image" content="images/banner/services_hero.png">
     <!--#include file="include/link.html"-->
   </head>
   <body>

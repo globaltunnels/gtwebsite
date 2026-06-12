@@ -2,7 +2,12 @@
 <html lang="en">
   <head>
     <!--#include file="include/meta.html"-->
-    <title>Solutions | Global Tunnels</title>
+    <title>Solutions & Capabilities | PathSync Platform | Global Tunnels</title>
+    <meta name="description" content="Discover how Global Tunnels solves complex federal IT challenges using PathSync, delivering secure intelligence pipelines and legacy database transformation.">
+    <meta name="keywords" content="PathSync Platform, Intelligence Pipelines, Federal IT Solutions, Database Transformation, AI Orchestration">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Solutions & Capabilities | Global Tunnels">
+    <meta property="og:image" content="images/banner/solutions_hero.png">
     <!--#include file="include/link.html"-->
   </head>
   <body>

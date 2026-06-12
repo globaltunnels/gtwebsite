@@ -2,7 +2,12 @@
 <html lang="en">
   <head>
     <!--#include file="include/meta.html"-->
-    <title>Privacy Notice | Global Tunnels</title>
+    <title>Privacy Notice | Data Security & Compliance | Global Tunnels</title>
+    <meta name="description" content="Read the Global Tunnels privacy notice. We are committed to protecting your data, adhering to federal privacy standards, and maintaining strict security compliance.">
+    <meta name="keywords" content="Privacy Policy, Data Security, Compliance, Global Tunnels Privacy">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Privacy Notice | Global Tunnels">
+    <meta property="og:image" content="images/banner/privacy_hero.png">
     <!--#include file="include/link.html"-->
   </head>
   <body>
