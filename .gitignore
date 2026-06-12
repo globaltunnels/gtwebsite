@@ -2,4 +2,3 @@
 *.log
 # debug file — never publish/deploy
 info.php
-dist/
