@@ -33,12 +33,12 @@
               <span>01</span>
               <div>
                 <h3>AI Infrastructure and Integration</h3>
-                <p>We architect the data pipelines, API gateways, role-based access controls, and cloud foundations needed to connect AI models to enterprise systems without uncontrolled exposure of sensitive data.</p>
+                <p>We architect the data pipelines, API gateways, <a href="https://csrc.nist.gov/projects/role-based-access-control" target="_blank">role-based access controls</a>, and cloud foundations needed to connect AI models to enterprise systems without uncontrolled exposure of sensitive data.</p>
                 <ul>
                   <li>Legacy Oracle, SQL, document, and application integration</li>
                   <li>API gateway and middleware architecture</li>
-                  <li>Access control, identity, and environment separation</li>
-                  <li>Secure AWS and government cloud deployment patterns</li>
+                  <li>Identity-first security and <a href="https://csrc.nist.gov/publications/detail/sp/800-207/final" target="_blank">Zero Trust Architecture</a> environment separation</li>
+                  <li>Secure cloud deployment and <a href="https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf" target="_blank">DoD-aligned DevSecOps</a> pipelines</li>
                 </ul>
               </div>
             </article>

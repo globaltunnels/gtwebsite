@@ -45,7 +45,7 @@
                 </article>
                 <article>
                   <h3>Federal delivery readiness</h3>
-                  <p>Global Tunnels brings experience with government acquisition vehicles, CMMI Level 3-appraised processes, data governance, and modernization work for federal environments.</p>
+                  <p>Global Tunnels brings experience with government acquisition vehicles, <a href="https://www.isaca.org/enterprise/cmmi-performance-solutions" target="_blank">CMMI Level 3-appraised processes</a>, <a href="https://csrc.nist.gov/glossary/term/data_governance" target="_blank">enterprise data governance and compliance</a>, and modernization work for federal environments.</p>
                 </article>
               </div>
             </div>
@@ -69,7 +69,7 @@
             <div class="col-md-4">
               <div class="gt-proof-item">
                 <span>GSA vehicles</span>
-                <p>GSA MAS contracting path for government technology services.</p>
+                <p><a href="https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedule" target="_blank">GSA MAS</a> contracting path for government technology services.</p>
               </div>
             </div>
             <div class="col-md-4">

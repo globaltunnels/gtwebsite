@@ -24,8 +24,8 @@
           </p>
           <div class="gt-hero-proof" aria-label="Company credentials">
             <span>GSA MAS</span>
-            <span>CMMI Level 3</span>
-            <span>FedRAMP-aligned practices</span>
+            <span><a href="https://www.isaca.org/enterprise/cmmi-performance-solutions" target="_blank" style="color:inherit; text-decoration:none; border-bottom:1px solid rgba(255,255,255,0.3);">CMMI Level 3</a></span>
+            <span><a href="https://www.fedramp.gov/" target="_blank" style="color:inherit; text-decoration:none; border-bottom:1px solid rgba(255,255,255,0.3);">FedRAMP-aligned practices</a></span>
           </div>
         </div>
       </section>
@@ -85,7 +85,7 @@
               <article class="gt-service-tile">
                 <i class="bi bi-clipboard2-pulse" aria-hidden="true"></i>
                 <h3>AI GRC and Auditing</h3>
-                <p>Risk reviews, red-team testing, AI policy development, and evaluation aligned to frameworks such as NIST AI RMF.</p>
+                <p>Risk reviews, red-team testing, AI policy development, and evaluation aligned to frameworks such as <a href="https://www.nist.gov/itl/ai-risk-management-framework" target="_blank">NIST AI RMF</a>.</p>
               </article>
             </div>
           </div>
@@ -109,7 +109,7 @@
                 <div>
                   <span>02</span>
                   <h3>Healthcare organizations</h3>
-                  <p>Patterns for sensitive data handling, audit trails, HIPAA-aware workflows, and controlled AI access.</p>
+                  <p>Patterns for sensitive data handling, audit trails, <a href="https://www.hhs.gov/hipaa/index.html" target="_blank">HIPAA-aware workflows</a>, and controlled AI access.</p>
                 </div>
                 <div>
                   <span>03</span>
