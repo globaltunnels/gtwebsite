@@ -2,110 +2,172 @@
 <html lang="en">
   <head>
     <!--#include file="include/meta.html"-->
-    <title>Global Tunnels Limited Company Homepage</title>
+    <title>Global Tunnels | Secure AI Integration and Governance</title>
     <!--#include file="include/link.html"-->
   </head>
   <body>
-    <!-- Header Include -->
     <!--#include file="include/header.html" -->
 
-    <!-- Hero Section -->
-    <!--#include file="include/hero.html" -->
+    <main>
+      <section class="gt-hero" aria-labelledby="hero-title">
+        <div class="gt-hero-media" aria-hidden="true"></div>
+        <div class="container gt-hero-content">
+          <p class="gt-kicker">Federal IT modernization since 2003</p>
+          <h1 id="hero-title">Secure AI integration for regulated enterprises</h1>
+          <p class="gt-hero-copy">
+            Global Tunnels helps government agencies, healthcare organizations, and enterprises connect AI to legacy systems with governance, access control, auditability, and practical security.
+          </p>
+          <div class="gt-hero-proof" aria-label="Company credentials">
+            <span>GSA MAS</span>
+            <span>CMMI Level 3</span>
+            <span>FedRAMP-aligned practices</span>
+          </div>
+        </div>
+      </section>
 
-    <!-- Home Section -->
-    <section id="home content">
-      <div id="appointment" class="appointment--section pd--100-0-40">
+      <section class="gt-section gt-positioning" aria-labelledby="positioning-title">
         <div class="container">
-          <class= class="row">
-            <div class="col-md-8">
-              <div class="appointment--items">
-              <div class="row AdjustRow">
-                <div class="col-xs-6 col-xxs-12">
-                  <div class="appointment--item"> <span class="step font--secondary">01</span>
-                    <div class="icon text--primary"> <i class="bi bi-code-slash"></i> </div>
-                    <div class="title">
-                      <h4 class="h4">Custom Development & Modernization</h4>
-                    </div>
-                    <div class="content">
-                      <p>Empower your organization with our custom development expertise. We create unique applications, software, websites, and AI-driven tools that refine operational efficiency, improve insights, and expand capabilities. Our solutions ensure compliance, security, and scalability. By integrating cutting-edge technologies, such as AI for coding and testing, we keep your agency ahead of industry trends, ensuring efficiency and innovation. </p>
-                    </div>
-                  </div>
+          <div class="row align-items-start g-5">
+            <div class="col-lg-5">
+              <p class="gt-eyebrow">What we do</p>
+              <h2 id="positioning-title">We make enterprise AI usable inside real infrastructure.</h2>
+            </div>
+            <div class="col-lg-7">
+              <p class="gt-lead">
+                AI models are advancing quickly, but regulated organizations still need secure integration, data controls, governance, and evidence. Global Tunnels builds the connective layer between modern AI capabilities and the legacy systems that run critical operations.
+              </p>
+              <div class="gt-rule-list">
+                <div>
+                  <strong>Integrate</strong>
+                  <span>Connect AI to databases, applications, APIs, and cloud environments with controlled access.</span>
                 </div>
-                <div class="col-xs-6 col-xxs-12">
-                  <div class="appointment--item"> <span class="step font--secondary">02</span>
-                    <div class="icon text--primary"> <i class="bi bi-database-fill-gear"></i> </div>
-                    <div class="title">
-                      <h4 class="h4">Data Management </h4>
-                    </div>
-                    <div class="content">
-                      <p>Global Tunnels offers end-to-end data management services, from data collection and creation to data processing, validation, governance, storage, security, transformation, and access. We develop AI-based solutions for multi-source discovery, access, and analysis, as well as, data quality assurance, empowering decision-making while maintaining compliance and security.</p>
-                    </div>
-                  </div>
+                <div>
+                  <strong>Govern</strong>
+                  <span>Apply policies, logging, monitoring, and review processes so AI usage can be trusted.</span>
                 </div>
-                <div class="col-xs-6 col-xxs-12">
-                  <div class="appointment--item"> <span class="step font--secondary">03</span>
-                    <div class="icon text--primary">
-                      <i class="bi bi-chevron-double-right"></i>
-                    </div>
-                    <div class="title">
-                      <h4 class="h4">Business Process Solutions</h4>
-                    </div>
-                    <div class="content">
-                      <p>Our business process solutions optimize federal operations by automating tasks, streamlining workflows, and ensuring compliance thereby enhancing efficiency, reducing costs, and improving transparency while delivering top-tier user services. We prioritize security, interoperability, and data-driven decision-making. </p>
-                    </div>
-                  </div>
+                <div>
+                  <strong>Modernize</strong>
+                  <span>Improve legacy workflows and data foundations without disrupting mission operations.</span>
                 </div>
-                
-                <div class="col-xs-6 col-xxs-12">
-                  <div class="appointment--item"> <span class="step font--secondary">04</span>
-                    <div class="icon text--primary"> <i class="bi bi-cloud-check-fill"></i> </div>
-                    <div class="title">
-                      <h4 class="h4">Secure Cloud Hosting & CyberSecurity</h4>
-                    </div>
-                    <div class="content">
-                      <p>Embrace the power of the cloud with Global Tunnels secure hosting solutions. We optimize performance while maintaining robust security measures and compliance with standards like FedRAMP and NIST 800-53. Our certified cloud solutions fortify systems against threats. AI-powered anomaly detection can identify and help resolve system issues, minimizing downtime and ensuring smooth operations during migration.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
               </div>
             </div>
-            <div class="appointment--form col-md-4" >
-              <form action="contactus" method="post" class="needs-validation" novalidate onsubmit="return confirmSubmission()"> 
-                <h4 class="h4 text--primary">Contact us today for inquires! </h4>
+          </div>
+        </div>
+      </section>
+
+      <section class="gt-section gt-dark-band" aria-labelledby="services-title">
+        <div class="container">
+          <div class="gt-section-heading">
+            <p class="gt-eyebrow">Service focus</p>
+            <h2 id="services-title">AI governance, infrastructure, and federal IT delivery</h2>
+          </div>
+          <div class="row g-4">
+            <div class="col-md-4">
+              <article class="gt-service-tile">
+                <i class="bi bi-diagram-3" aria-hidden="true"></i>
+                <h3>AI Infrastructure Integration</h3>
+                <p>Secure data pipelines, API gateways, RBAC overlays, and cloud architecture for AI-enabled systems.</p>
+              </article>
+            </div>
+            <div class="col-md-4">
+              <article class="gt-service-tile">
+                <i class="bi bi-shield-check" aria-hidden="true"></i>
+                <h3>AI Governance and Policy</h3>
+                <p>Policy design, access controls, and audit logging so AI usage can be reviewed, monitored, and trusted.</p>
+              </article>
+            </div>
+            <div class="col-md-4">
+              <article class="gt-service-tile">
+                <i class="bi bi-clipboard2-pulse" aria-hidden="true"></i>
+                <h3>AI GRC and Auditing</h3>
+                <p>Risk reviews, red-team testing, AI policy development, and evaluation aligned to frameworks such as NIST AI RMF.</p>
+              </article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="gt-section" aria-labelledby="markets-title">
+        <div class="container">
+          <div class="row g-5">
+            <div class="col-lg-4">
+              <p class="gt-eyebrow">Markets</p>
+              <h2 id="markets-title">Built for environments where trust matters.</h2>
+            </div>
+            <div class="col-lg-8">
+              <div class="gt-market-grid">
+                <div>
+                  <span>01</span>
+                  <h3>Government agencies and contractors</h3>
+                  <p>Legacy modernization, secure cloud operations, acquisition-aware delivery, and AI governance.</p>
+                </div>
+                <div>
+                  <span>02</span>
+                  <h3>Healthcare organizations</h3>
+                  <p>Patterns for sensitive data handling, audit trails, HIPAA-aware workflows, and controlled AI access.</p>
+                </div>
+                <div>
+                  <span>03</span>
+                  <h3>Mid-to-large enterprises</h3>
+                  <p>Governed AI usage, integration with enterprise systems, monitoring, and risk management.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="gt-section gt-contact-section" aria-labelledby="contact-title">
+        <div class="container">
+          <div class="row g-5">
+            <div class="col-lg-5">
+              <p class="gt-eyebrow">Contact us</p>
+              <h2 id="contact-title">Global Tunnels Limited Company</h2>
+              <div class="gt-contact-details">
+                <p><strong>Phone</strong><br>202.999.5791</p>
+                <p><strong>Email</strong><br><a href="mailto:contact@globaltunnels.com">contact@globaltunnels.com</a></p>
+                <p><strong>Office</strong><br>1069 W Broad St #210, Falls Church, VA</p>
+              </div>
+            </div>
+            <div class="col-lg-7">
+              <form action="https://formspree.io/f/mykanpnk" method="post" class="needs-validation gt-contact-form" novalidate onsubmit="return confirmSubmission()">
                 <div class="status"></div>
-                <div class="row">
-                  <div class="col-sm-12">
-                    <input type="text" name="name" placeholder="Your Name" class="form-control" required>
+                <div class="row g-3">
+                  <div class="col-md-6">
+                    <label for="contact-name" class="form-label">Name</label>
+                    <input id="contact-name" type="text" name="name" class="form-control" required>
                     <div class="invalid-feedback">Please enter your name.</div>
                   </div>
-                  <div class="col-sm-12">
-                      <input type="tel" name="tel" placeholder="Tel 202.222.2222" pattern="[0-9]{3}\.[0-9]{3}\.[0-9]{4}"class="form-control">
+                  <div class="col-md-6">
+                    <label for="contact-tel" class="form-label">Telephone</label>
+                    <input id="contact-tel" type="tel" name="tel" class="form-control">
                   </div>
-                  <div class="col-sm-12">
-                      <input type="email" name="email" placeholder="E-mail Address" required pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$" class="form-control" required>
-                      <div class="invalid-feedback">Please enter a valid email address.</div>
+                  <div class="col-md-6">
+                    <label for="contact-email" class="form-label">Email</label>
+                    <input id="contact-email" type="email" name="email" class="form-control" required>
+                    <div class="invalid-feedback">Please enter a valid email address.</div>
                   </div>
-                  <div class="col-sm-12">
-                      <input type="textarea" name="subject" placeholder="Subject" class="form-control" required>
-                      <div class="invalid-feedback">Please enter a subject.</div>
+                  <div class="col-md-6">
+                    <label for="contact-subject" class="form-label">Subject</label>
+                    <input id="contact-subject" type="text" name="subject" class="form-control" required>
+                    <div class="invalid-feedback">Please enter a subject.</div>
                   </div>
-                  <div class="col-sm-12">
-                      <textarea name="message" rows="20"  placeholder="Details" class="form-control" required></textarea>
-                      <div class="invalid-feedback">Please enter your message.</div>
+                  <div class="col-12">
+                    <label for="contact-message" class="form-label">Message</label>
+                    <textarea id="contact-message" name="message" rows="7" class="form-control" required></textarea>
+                    <div class="invalid-feedback">Please enter your message.</div>
                   </div>
-                  <div class="col-sm-12">
-                      <button type="submit" class="btn btn-default">Send Message</button>
+                  <div class="col-12">
+                    <button type="submit" class="btn gt-btn">Send Message</button>
                   </div>
                 </div>
               </form>
             </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+    </main>
 
-    <!-- Footer Include -->
     <!--#include file="include/footer.html" -->
     <!--#include file="include/postscripts.html" -->
   </body>

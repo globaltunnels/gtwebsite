@@ -2,120 +2,99 @@
 <html lang="en">
   <head>
     <!--#include file="include/meta.html"-->
-    <title>Global Tunnels Limited Company Homepage</title>
+    <title>About | Global Tunnels</title>
     <!--#include file="include/link.html"-->
   </head>
-<body>
-    <!-- Header Include -->
+  <body>
     <!--#include file="include/header.html" -->
 
-    <!-- About Section -->
-   
-    <section id="about content">
-        <div class="pd--130-0 text-center" style="background-image: url('images/banner/gt_aboutus.jpg'); background-size: cover; background-position: center;">
-            <div class="container">
-                <h1 class="banner-title">About Us</h1>
-            </div>
-        </div> 
-        <div class="about--section pd--100-0-40">
-            <div class=container>
-                <div class=row>
-                    <div class="about--content col-sm-4 pb--60">
-                        <h2 class=h2>About <span>Global Tunnels</span></h2>
-                        <h4>Empowering Federal IT with Human-Centric Innovation</h4> 
-                        <p>At Global Tunnels, we’re more than just an IT services company–we’re a collective of dedicated innovators driven by a passion for transformation. With a wealth of experience spanning over two decades, our team of experts brings a unique blend of technical prowess and human-centric understanding to every project we undertake. </p>
-                        
-                        <div class="appointment--form">
-                        <form action="contactus" method="post" class="needs-validation" novalidate onsubmit="return confirmSubmission()"> 
-                            <h2 class="h4 text--primary text-center">Interested in our Expertise?</h2>
-                            <div class="status"></div>
-                            <div class="row">
-                                <div class="col-sm-6">
-                                <input type="text" name="name"  placeholder="Your Name" class="form-control" required>
-                                <div class="invalid-feedback">Please enter your name.</div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <input type="tel" name="tel"  placeholder="Telephone" class="form-control">
-                                </div>
-                                <div class="col-sm-12">
-                                    <input type="email" name="email"  placeholder="E-mail Address" class="form-control" required>
-                                    <div class="invalid-feedback">Please enter a valid email address.</div>
-                                </div>
-                                <div class="col-sm-12">
-                                    <input type="text" name="subject"  placeholder="Subject" class="form-control" required>
-                                    <div class="invalid-feedback">Please enter a subject.</div>
-                                </div>
-                                <div class="col-sm-12">
-                                    <textarea name="message"  placeholder="Details" class="form-control" required></textarea>
-                                    <div class="invalid-feedback">Please enter your message.</div>
-                                </div>
-                                <div class="col-sm-12">
-                                    <button type="submit"  class="btn btn-default">Send Message</button>
-                                </div>
-                            </div>
-                        </form>
-                        </div>
-                    </div>
-                    <div class="about--content col-sm-4 pb--60">
-                    <h2 class=h2>Contract<span> Vehicles</span></h2>
-                    <p>Global Tunnels was awarded IT Schedule 70 contract number GS-35F-0074V by the U.S. General Services Administration (GSA) and is certified as an 8(a) small business vendor by the Small Business Administration. Click <b><a href=https://www.gsa.gov/tools/supply-procurement-etools/ebuy>here</a></b>for how to order from the GSA Schedule.  Global Tunnels was awarded GSA GWAC 8(a) Stars III contract in 2022. The 8(a) STARS III contract is a small business set-aside GWAC providing access to Global Tunnels’ custom IT solutions. Under this contract, Global Tunnels offers fixed prices, time and materials, labor hours, and blended task order types, providing greater flexibility in procuring IT service solutions to meet your mission requirements. The 8(a) STARS III allows directed task orders up to $4.5 Million, including options. Click<b> <a href=https://www.gsa.gov/technology/technology-purchasing-programs/governmentwide-acquisition-contracts/8a-stars-iii>here
-                    </a></b>for more information about how to order Global Tunnels’ services using GSA 8(a) Stars III.<p>Contact us for more information regarding rates and/or submit a request for quote or proposal. 
-                        <ul class=gt-bullet-styles>
-
-                            <li><i class="fa fa-angle-double-right fm"></i><b>Phone:</b> 202.999.5791
-                            <li><i class="fa fa-angle-double-right fm"></i><b>E-Mail: <a href=mailto:stars3@globaltunnels.com>stars3@globaltunnels.com</a></b>
-                            <li><br>
-                            <li><i class="fa fa-angle-double-right fm"></i><b><a href=resource/Comm_PriceList.pdf>Commercial price list for IT Services</a> </b> <li><i class="fa fa-angle-double-right fm"></i><b><a href="https://cmls.gsa.gov/s/publication-listing?catId=a1R30000001b5uuEAA">Publications for commercial and non-federal entities</a></b>
-                            <li><i class="fa fa-angle-double-right fm"></i><b><a href="https://cmls.gsa.gov/s/publication-details?recordId=a12t0000004MyMCAA0">Publications for GSA 8(a) STARS III</a></b>
-                            <li><i class="fa fa-angle-double-right fm"></i><b><a href=https://www.gsaadvantage.gov/ref_text/GS35F0074V/0YUWGM.3UL9BA_GS-35F-0074V_PRICELIST.PDF>GSA IT Schedule 70 Price List</a> </b> 
-                        </ul> 
-                        <ul>
-                        <li><i class="fa fa-angle-double-right fm"></i><b>DUNS Number:</b> 136156234
-                        <li><i class="fa fa-angle-double-right fm"></i><b>UEI Number:</b> PSE2NS5HAF94
-                        <li><i class="fa fa-angle-double-right fm"></i><b>CAGE Number:</b> 325Y6
-                        </ul>  
-                    </div>
-                    <div class="about--content col-sm-4 pb--60">
-                        <h2 class=h2>Our <span>Partners</span></h2>
-                        <div class=gt--partners>
-                            <div class=row>
-                                <div class="col-sm-12 drop-shadow gt-lifted-50 lifted"><img alt=SBA src=images/services/SBA_250.png> </div>
-                                <div class=col-sm-1></div>
-                                <div class="col-sm-12 drop-shadow gt-lifted-50 lifted"><img alt=GSA src=images/services/GSA_schedule.jpg> </div> 
-                                <div class=col-sm-1></div>
-                                <div class="col-sm-12 drop-shadow gt-lifted-50 lifted"><img alt="GSA Stars III" src=images/services/stars_III_final.jpg> </div> 
-                            </div> 
-                            <br>
-                            <div class=row>
-                                <div class=col-sm-12>
-                                    <ul class="gt--partners drop-shadow">
-                                        <li><i class="fa fa-angle-double-right fm"></i>GSA Schedule 70: Contract # GS-35F-0074V<li><i class="fa fa-angle-double-right fm"></i>SBA 8(a) Certified Small Business: Case #306532<li><i class="fa fa-angle-double-right fm"></i><a href="https://www.gsa.gov/technology/technology-purchasing-programs/governmentwide-acquisition-contracts/8a-stars-iii">GSA
-                                            8(a) STARS III Contract # 47QTCB22D0478</a>
-                                    </ul>
-                                </div>
-                                <div class="col-sm-12 ">
-                                    <h4 class=h4>Related<strong> NAICS</strong></h4>
-                                        <ul class="gt--partners drop-shadow">
-                                            <li><i class="fa fa-angle-double-right fm"></i>NAICS 541219</li>
-                                            <li><i class="fa fa-angle-double-right fm"></i>NAICS 541511</li>
-                                            <li><i class="fa fa-angle-double-right fm"></i>NAICS 541512</li>
-                                            <li><i class="fa fa-angle-double-right fm"></i>NAICS 541611</li>
-                                            <li><i class="fa fa-angle-double-right fm"></i>NAICS 541614</li>
-                                            <li><i class="fa fa-angle-double-right fm"></i>NAICS 611430</li>
-                                        </ul>
-                                </div>
-                            </div>
-                        </div>
-                                
-                    </div>
-                </div>
-            </div>
+    <main>
+      <section class="gt-page-hero gt-about-hero" aria-labelledby="about-title">
+        <div class="container">
+          <p class="gt-kicker">Company Profile</p>
+          <h1 id="about-title">Human-centric innovation for federal IT</h1>
+          <p>We are a collective of dedicated innovators driven by a passion for transformation, blending technical capability with strict compliance standards.</p>
         </div>
-    </section>
+      </section>
 
-    
+      <section class="gt-section" aria-labelledby="about-content">
+        <div class="container">
+          <div class="row g-5">
+            <div class="col-lg-6">
+              <p class="gt-eyebrow">Our Background</p>
+              <h2 id="about-content">About Global Tunnels</h2>
+              <p class="gt-lead">
+                At Global Tunnels, we are more than just an IT services company—we are a collective of dedicated innovators driven by a passion for transformation. With a wealth of experience spanning over two decades, our team of experts brings a unique blend of technical prowess and human-centric understanding to every project we undertake.
+              </p>
+            </div>
+            <div class="col-lg-6">
+               <div class="gt-contact-form">
+                <form action="https://formspree.io/f/mykanpnk" method="post" class="needs-validation" novalidate onsubmit="return confirmSubmission()">
+                  <h3 style="color:#ffffff; margin-bottom: 24px; font-family: 'Outfit', sans-serif;">Interested in our expertise?</h3>
+                  <div class="status"></div>
+                  <div class="row g-3">
+                    <div class="col-md-6">
+                      <input type="text" name="name" placeholder="Your Name" class="form-control" required>
+                    </div>
+                    <div class="col-md-6">
+                      <input type="email" name="email" placeholder="E-mail Address" class="form-control" required>
+                    </div>
+                    <div class="col-12">
+                      <input type="text" name="subject" placeholder="Subject" class="form-control" required>
+                    </div>
+                    <div class="col-12">
+                      <textarea name="message" placeholder="Details" rows="4" class="form-control" required></textarea>
+                    </div>
+                    <div class="col-12">
+                      <button type="submit" class="btn gt-btn">Send Message</button>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
-    <!-- Footer Include -->
+      <section class="gt-section gt-dark-band" aria-labelledby="contracts-title">
+        <div class="container">
+          <div class="gt-section-heading">
+            <p class="gt-eyebrow">Acquisition Paths</p>
+            <h2 id="contracts-title">Contract vehicles and delivery frameworks</h2>
+          </div>
+          
+          <div class="gt-service-list">
+            <article>
+              <span>GSA</span>
+              <div>
+                <h3>GSA IT Schedule 70 (MAS)</h3>
+                <p>Contract number GS-35F-0074V by the U.S. General Services Administration (GSA). We provide IT services across federal agencies.</p>
+                <ul>
+                  <li><a href="https://www.gsa.gov/tools/supply-procurement-etools/ebuy">Order from GSA Schedule</a></li>
+                  <li><a href="resource/Comm_PriceList.pdf">Commercial price list for IT Services</a></li>
+                  <li><a href="https://www.gsaadvantage.gov/ref_text/GS35F0074V/0YUWGM.3UL9BA_GS-35F-0074V_PRICELIST.PDF">GSA IT Schedule 70 Price List</a></li>
+                </ul>
+              </div>
+            </article>
+
+            <article>
+              <span>MBE</span>
+              <div>
+                <h3>Minority-Owned Small Business</h3>
+                <p>Case #306532</p>
+                <ul>
+                  <li><strong>DUNS Number:</strong> 136156234</li>
+                  <li><strong>UEI Number:</strong> PSE2NS5HAF94</li>
+                  <li><strong>CAGE Number:</strong> 325Y6</li>
+                </ul>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
     <!--#include file="include/footer.html" -->
     <!--#include file="include/postscripts.html" -->
   </body>
