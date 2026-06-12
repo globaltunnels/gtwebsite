@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--#include file="include/meta.html"-->
+    <title>Solutions & Capabilities | PathSync Platform | Global Tunnels</title>
+    <meta name="description" content="Discover how Global Tunnels solves complex federal IT challenges using PathSync, delivering secure intelligence pipelines and legacy database transformation.">
+    <meta name="keywords" content="PathSync Platform, Intelligence Pipelines, Federal IT Solutions, Database Transformation, AI Orchestration">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Solutions & Capabilities | Global Tunnels">
+    <meta property="og:image" content="images/banner/solutions_hero.png">
+    <!--#include file="include/link.html"-->
+  </head>
+  <body>
+    <!--#include file="include/header.html" -->
+
+    <main>
+      <section class="gt-page-hero gt-solutions-hero" aria-labelledby="solutions-title">
+        <div class="container">
+          <p class="gt-kicker">Solutions</p>
+          <h1 id="solutions-title">AI modernization that respects legacy reality</h1>
+          <p>Global Tunnels helps organizations introduce AI without ignoring the systems, data, policies, and acquisition constraints already in place.</p>
+        </div>
+      </section>
+
+      <section class="gt-section" aria-labelledby="solution-areas-title">
+        <div class="container">
+          <div class="row g-5">
+            <div class="col-lg-4">
+              <p class="gt-eyebrow">Solution areas</p>
+              <h2 id="solution-areas-title">The bottleneck is trust and infrastructure.</h2>
+            </div>
+            <div class="col-lg-8">
+              <div class="gt-solution-stack">
+                <article>
+                  <h3>Legacy-to-AI connectivity</h3>
+                  <p>We connect existing applications, databases, documents, and workflows to AI systems through controlled integration layers instead of exposing internal systems directly.</p>
+                </article>
+                <article>
+                  <h3>Governed AI usage</h3>
+                  <p>We design policies, logging, human review steps, and access controls so AI usage can be monitored and evaluated across departments and programs.</p>
+                </article>
+                <article>
+                  <h3>Secure cloud and operations</h3>
+                  <p>We support cloud hosting, migration, monitoring, backup, and cybersecurity practices for mission systems that require reliability and compliance.</p>
+                </article>
+                <article>
+                  <h3>Federal delivery readiness</h3>
+                  <p>Global Tunnels brings experience with government acquisition vehicles, <a href="https://www.isaca.org/enterprise/cmmi-performance-solutions" target="_blank">CMMI Level 3-appraised processes</a>, <a href="https://csrc.nist.gov/glossary/term/data_governance" target="_blank">enterprise data governance and compliance</a>, and modernization work for federal environments.</p>
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="gt-section gt-proof-band" aria-labelledby="proof-title">
+        <div class="container">
+          <div class="gt-section-heading">
+            <p class="gt-eyebrow">Contracting and delivery</p>
+            <h2 id="proof-title">Federal IT experience with practical AI focus</h2>
+          </div>
+          <div class="row g-4">
+            <div class="col-md-4">
+              <div class="gt-proof-item">
+                <span>Since 2003</span>
+                <p>Custom software, data management, cloud hosting, and federal IT modernization.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="gt-proof-item">
+                <span>GSA vehicles</span>
+                <p><a href="https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedule" target="_blank">GSA MAS</a> contracting path for government technology services.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="gt-proof-item">
+                <span>Governance first</span>
+                <p>Security, compliance, audit evidence, and data controls built into AI adoption plans.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="gt-section" aria-labelledby="naics-title">
+        <div class="container">
+          <div class="row g-5">
+            <div class="col-lg-4">
+              <p class="gt-eyebrow">Related NAICS</p>
+              <h2 id="naics-title">Services mapped to common federal categories</h2>
+            </div>
+            <div class="col-lg-8">
+              <div class="gt-naics-grid">
+                <p><strong>518210</strong> Data Processing, Hosting, and Related Services</p>
+                <p><strong>541511</strong> Custom Computer Programming Services</p>
+                <p><strong>541512</strong> Computer Systems Design Services</p>
+                <p><strong>541513</strong> Computer Facilities Management Services</p>
+                <p><strong>541519</strong> Other Computer Related Services</p>
+                <p><strong>541611</strong> Administrative Management and General Management Consulting Services</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!--#include file="include/footer.html" -->
+    <!--#include file="include/postscripts.html" -->
+  </body>
+</html>

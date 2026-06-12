@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--#include file="include/meta.html"-->
+    <title>Core Services | AI Governance & Cloud Migration | Global Tunnels</title>
+    <meta name="description" content="Explore our core capabilities including AI risk management frameworks, automated workflows via PathSync, data governance, and scalable cloud solutions.">
+    <meta name="keywords" content="AI Services, Data Governance, Cloud Migration, Automated Workflows, Risk Management, Cybersecurity, DevSecOps">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Core Services | Global Tunnels">
+    <meta property="og:image" content="images/banner/services_hero.png">
+    <!--#include file="include/link.html"-->
+  </head>
+  <body>
+    <!--#include file="include/header.html" -->
+
+    <main>
+      <section class="gt-page-hero gt-services-hero" aria-labelledby="services-title">
+        <div class="container">
+          <p class="gt-kicker">Services</p>
+          <h1 id="services-title">Secure integration and governance for AI-enabled operations</h1>
+          <p>Global Tunnels combines legacy system modernization, data management, secure cloud operations, and AI governance for organizations with strict compliance needs.</p>
+        </div>
+      </section>
+
+      <section class="gt-section" aria-labelledby="core-services-title">
+        <div class="container">
+          <div class="gt-section-heading">
+            <p class="gt-eyebrow">Core services</p>
+            <h2 id="core-services-title">From legacy systems to governed AI</h2>
+          </div>
+          <div class="gt-service-list">
+            <article>
+              <span>01</span>
+              <div>
+                <h3>AI Infrastructure and Integration</h3>
+                <p>We architect the data pipelines, API gateways, <a href="https://csrc.nist.gov/projects/role-based-access-control" target="_blank">role-based access controls</a>, and cloud foundations needed to connect AI models to enterprise systems without uncontrolled exposure of sensitive data.</p>
+                <ul>
+                  <li>Legacy Oracle, SQL, document, and application integration</li>
+                  <li>API gateway and middleware architecture</li>
+                  <li>Identity-first security and <a href="https://csrc.nist.gov/publications/detail/sp/800-207/final" target="_blank">Zero Trust Architecture</a> environment separation</li>
+                  <li>Secure cloud deployment and <a href="https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf" target="_blank">DoD-aligned DevSecOps</a> pipelines</li>
+                </ul>
+              </div>
+            </article>
+            <article>
+              <span>02</span>
+              <div>
+                <h3>AI Governance, Risk, and Compliance</h3>
+                <p>We help organizations design the policy, access-control, and audit-logging layer that governs how AI is used, and evaluate AI systems against recognized risk and compliance frameworks.</p>
+                <ul>
+                  <li>Policy design and access controls for AI usage</li>
+                  <li>Audit logging and evidence for compliance review</li>
+                  <li>NIST AI RMF-aligned assessments and risk documentation</li>
+                  <li>AI red-team and prompt-injection testing</li>
+                  <li>Organizational AI policy and operating procedures</li>
+                </ul>
+              </div>
+            </article>
+            <article>
+              <span>03</span>
+              <div>
+                <h3>Data Management and Modernization</h3>
+                <p>AI depends on reliable data. We support collection, validation, transformation, governance, security, access, and quality assurance across multi-source environments.</p>
+                <ul>
+                  <li>Data governance and quality processes</li>
+                  <li>Dashboards, analytics, and operational reporting</li>
+                  <li>Secure data storage and controlled sharing</li>
+                  <li>Modernization of business applications and workflows</li>
+                </ul>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="gt-section gt-dark-band" aria-labelledby="delivery-title">
+        <div class="container">
+          <div class="row g-5 align-items-start">
+            <div class="col-lg-5">
+              <p class="gt-eyebrow">Delivery model</p>
+              <h2 id="delivery-title">Project delivery with long-term managed support</h2>
+            </div>
+            <div class="col-lg-7">
+              <div class="gt-rule-list gt-rule-list-light">
+                <div>
+                  <strong>Initial architecture and implementation</strong>
+                  <span>Assessment, design, integration, migration, configuration, and governance setup.</span>
+                </div>
+                <div>
+                  <strong>Managed AI infrastructure</strong>
+                  <span>Ongoing operations, monitoring, maintenance, security support, and change management.</span>
+                </div>
+                <div>
+                  <strong>Quarterly or annual governance reviews</strong>
+                  <span>Risk review, policy updates, audit evidence, red-team testing, and compliance reporting.</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!--#include file="include/footer.html" -->
+    <!--#include file="include/postscripts.html" -->
+  </body>
+</html>
