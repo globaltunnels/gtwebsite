@@ -523,28 +523,125 @@ a:focus {
   margin-bottom: 16px;
 }
 
-/* Footer */
-.footer--section {
-  background: var(--gt-dark) !important;
-  border-top: 1px solid rgba(255, 255, 255, 0.05);
-  padding: 60px 0 20px;
+/* New Footer Design */
+.gt-footer {
+  position: relative;
+  background: var(--gt-dark);
+  padding: 80px 0 40px;
+  border-top: 1px solid var(--gt-line);
+  overflow: hidden;
 }
 
-.footer--section .bg--color-theme {
-  background: transparent !important;
+.gt-footer-glow {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gt-accent), transparent);
+  box-shadow: 0 0 20px 2px rgba(14, 165, 233, 0.5);
 }
 
-.footer--section p, .footer--section a {
+.gt-footer-brand {
+  color: #ffffff;
+  font-family: 'Outfit', sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 20px;
+  letter-spacing: -0.02em;
+  background: linear-gradient(135deg, #ffffff, var(--gt-muted));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gt-footer-desc {
   color: var(--gt-muted);
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 30px;
 }
 
-.footer--section a:hover {
-  color: #fff;
+.gt-footer-heading {
+  color: #ffffff;
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 24px;
 }
 
-.footer--section .gt-brand img {
-  filter: brightness(0) invert(1);
-  opacity: 0.8;
+.gt-footer-links,
+.gt-footer-contact {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.gt-footer-links li,
+.gt-footer-contact li {
+  margin-bottom: 16px;
+}
+
+.gt-footer-links a {
+  color: var(--gt-muted);
+  font-size: 1.05rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+}
+
+.gt-footer-links a::before {
+  content: "→";
+  color: var(--gt-accent);
+  margin-right: 8px;
+  opacity: 0;
+  transform: translateX(-10px);
+  transition: all 0.3s ease;
+}
+
+.gt-footer-links a:hover,
+.gt-footer-links a:focus {
+  color: #ffffff;
+  transform: translateX(5px);
+}
+
+.gt-footer-links a:hover::before,
+.gt-footer-links a:focus::before {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.gt-footer-contact li {
+  display: flex;
+  align-items: flex-start;
+  color: var(--gt-muted);
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.gt-footer-contact i {
+  color: var(--gt-accent);
+  font-size: 1.2rem;
+  margin-top: 4px;
+  margin-right: 12px;
+}
+
+.gt-footer-contact a {
+  color: var(--gt-muted);
+  transition: color 0.3s ease;
+}
+
+.gt-footer-contact a:hover {
+  color: #ffffff;
+}
+
+.gt-footer-bottom {
+  margin-top: 60px;
+  padding-top: 30px;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  color: var(--gt-muted);
+  font-size: 0.95rem;
 }
 
 @media (max-width: 991px) {
@@ -618,3 +715,5 @@ a:focus {
     linear-gradient(90deg, rgba(2, 6, 23, 0.95), rgba(2, 6, 23, 0.7)),
     url("../images/banner/privacy_hero.png") center / cover no-repeat;
 }
+
+
